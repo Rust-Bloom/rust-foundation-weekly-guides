@@ -1,4 +1,4 @@
-# Rust Bloom: Learning
+# Rust Bloom: Weekly Guides
 
 Rust Bloom is a community for women learning Rust, building with it, and contributing to open source.
 
