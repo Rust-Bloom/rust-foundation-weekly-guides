@@ -15,7 +15,7 @@ About 2.5 to 3 hours across the week. Go at your own pace. If you need longer, t
 6. Check in with the community · 5 min
 
 **How to use this guide**
-Work through the steps below in order, and move on when you reach  **Done when**.
+Work through the steps below in order, and move on when you reach **Done when**.
 Stuck at any point? Ask in **#ask-anything** on our Discord. Nobody gets left behind
 
 ## Step 1 · Install Rust

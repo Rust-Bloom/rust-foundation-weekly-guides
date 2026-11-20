@@ -17,7 +17,7 @@ Finish week 1 first. If you're still on it, that's fine. Carry on from where you
 5. Check in with the community · 5 min
 
 **How to use this guide**
-Work through the steps below in order, and move on when you reach  **Done when**.
+Work through the steps below in order, and move on when you reach **Done when**.
 Stuck at any point? Ask in **#ask-anything** on our Discord
 
 ## Step 1 · Variables and data types
