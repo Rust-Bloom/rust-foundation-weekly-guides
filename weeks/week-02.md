@@ -1,4 +1,4 @@
-# 🌿 Week 2: Rust's building blocks
+# Week 2: Rust's building blocks
 
 **This week's goal**
 By Sunday, you'll understand variables, data types, functions and control flow, and you'll have practised them with hands-on exercises.
@@ -17,11 +17,11 @@ Finish week 1 first. If you're still on it, that's fine. Carry on from where you
 5. Check in with the community · 5 min
 
 **How to use this guide**
-Work through the steps below in order, and move on when you reach ✅ **Done when**.
-Stuck at any point? Ask in **#ask-anything** on our Discord 🌸
+Work through the steps below in order, and move on when you reach  **Done when**.
+Stuck at any point? Ask in **#ask-anything** on our Discord
 
 ## Step 1 · Variables and data types
-📖 The Rust Book, sections 3.1 and 3.2 · ⏱️ 50 minutes
+The Rust Book, sections 3.1 and 3.2 · 50 minutes
 
 **What you'll learn**
 - How to store values in variables, and what `mut` means
@@ -33,10 +33,10 @@ Stuck at any point? Ask in **#ask-anything** on our Discord 🌸
 3. Try the examples yourself in VS Code or the Playground (<https://play.rust-lang.org>). Change the values and see what happens.
 4. Complete the quizzes in both sections.
 
-✅ **Done when** you've finished the quizzes for 3.1 and 3.2.
+**Done when** you've finished the quizzes for 3.1 and 3.2.
 
 ## Step 2 · Functions, comments and control flow
-📖 The Rust Book, sections 3.3 to 3.5 · ⏱️ 1 hour
+The Rust Book, sections 3.3 to 3.5 · 1 hour
 
 **What you'll learn**
 - How to write your own functions
@@ -48,12 +48,12 @@ Stuck at any point? Ask in **#ask-anything** on our Discord 🌸
 2. Try the examples yourself as you go.
 3. Complete the quizzes in each section.
 
-✅ **Done when** you've finished the quizzes for 3.3 and 3.5.
+**Done when** you've finished the quizzes for 3.3 and 3.5.
 
-💡 **Tip:** take this slowly. These are the building blocks for everything that follows.
+**Tip:** take this slowly. These are the building blocks for everything that follows.
 
 ## Step 3 · Install Rustlings
-⏱️ 20 minutes
+Time: 20 minutes
 
 **Why:** Rustlings gives you small broken programs to fix. It's the best way to make what you've read stick.
 
@@ -71,12 +71,12 @@ rustlings
 ```
 3. Open the **rustlings** folder in VS Code (File → Open Folder). The exercises are in the **exercises** folder.
 
-✅ **Done when** Rustlings is running in your terminal and showing the first exercise.
+**Done when** Rustlings is running in your terminal and showing the first exercise.
 
-❓ **Stuck?** Ask in **#ask-anything** with a screenshot of what you see.
+**Stuck?** Ask in **#ask-anything** with a screenshot of what you see.
 
 ## Step 4 · Practise with Rustlings
-⏱️ 1 hour
+Time: 1 hour
 
 **How it works**
 Keep Rustlings running in your terminal. It shows you one exercise at a time. Open that file in VS Code, fix the code, and save. Rustlings checks it automatically and moves you to the next one.
@@ -94,12 +94,12 @@ Work through these five topics:
 - `l` shows the list of exercises and your progress
 - `q` quits (your progress is saved)
 
-✅ **Done when** you've finished all five topics.
+**Done when** you've finished all five topics.
 
-💡 **Tip:** read the error messages carefully. Rust's compiler usually tells you what's wrong and how to fix it.
+**Tip:** read the error messages carefully. Rust's compiler usually tells you what's wrong and how to fix it.
 
 ## Step 5 · Check in
-⏱️ 5 minutes
+Time: 5 minutes
 
 **What to do**
 Post in **#what-im-building** and tell us:
@@ -107,9 +107,9 @@ Post in **#what-im-building** and tell us:
 2. One thing that clicked
 3. One thing that's still confusing
 
-There are no wrong answers, and it's fine if you didn't finish everything 💬
+There are no wrong answers, and it's fine if you didn't finish everything
 
-## ⭐ Finished early, or already know the basics?
+## Finished early, or already know the basics?
 
 Here's how to go further this week:
 
@@ -117,5 +117,5 @@ Here's how to go further this week:
 2. **Build something small** using only chapter 3: a temperature converter (Celsius to Fahrenheit), or a program that prints the first 20 Fibonacci numbers.
 3. **Help someone** in **#ask-anything**.
 
-Share what you build in **#what-im-building** 🌸
+Share what you build in **#what-im-building**
 
