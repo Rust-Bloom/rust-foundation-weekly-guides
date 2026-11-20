@@ -11,9 +11,8 @@ Each week has one guide with clear steps. Go at your own pace, and start with We
 | Week | Guide | What you'll do |
 | --- | --- | --- |
 | 1 | [Install Rust and write your first programs](weeks/week-01.md) | Install Rust, set up your editor, write Hello World and a guessing game |
-| 2 | [Rust's building blocks](weeks/week-02.md) | Variables, data types, functions and control flow, with Rustlings practice |
 
-More weeks will be added as we go.
+A new guide is added each week.
 
 ## Resources
 
