@@ -1,7 +1,7 @@
 # Week 1: Install Rust and write your first programs
 
 **This week's goal**
-By Friday 27 November, you'll have Rust installed and you'll have written and run your first two Rust programs.
+By the end of this week, you'll have Rust installed and you'll have written and run your first two Rust programs.
 
 **Time needed**
 About 2.5 to 3 hours across the week. Go at your own pace. If you need longer, that's completely fine.
