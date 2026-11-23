@@ -6,9 +6,6 @@ By Friday 27 November, you'll have Rust installed and you'll have written and ru
 **Time needed**
 About 2.5 to 3 hours across the week. Go at your own pace. If you need longer, that's completely fine.
 
-**Our first call**
-We'll meet on Friday 27 November for our first onboarding call and technical session. Bring your questions from this week. The time and link will be shared in **#announcements** on Discord.
-
 **This week's steps**
 1. Install Rust · 30–45 min
 2. Set up your editor · 15 min
